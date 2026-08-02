@@ -1,0 +1,21 @@
+{
+  "repo": "watsi",
+  "feeds": [
+    {
+      "source": "https://watsi.org/blog/feed/",
+      "feed_url": "https://watsi.org/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://watsi.org",
+      "feed_url": "https://watsi.org/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 15,
+  "fetched": "2026-08-01T15:49:00Z"
+}

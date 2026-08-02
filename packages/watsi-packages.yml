@@ -1,0 +1,40 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=watsi
+notes: First-party npm packages published by the watsi npm account (Watsi's design
+  system and tooling). These are UI/tooling libraries, not API client SDKs — Watsi's
+  former read-only API (developers.watsi.org) is offline and shipped no official
+  client libraries. No first-party packages found on PyPI, RubyGems, Maven Central,
+  NuGet, pkg.go.dev, Packagist, or crates.io.
+packages:
+- language: javascript
+  registry: npm
+  name: "@watsi/ui"
+  url: https://www.npmjs.com/package/@watsi/ui
+  install: npm install @watsi/ui
+  description: Interface components for Watsi
+  latest: 0.1.7
+  last_published: '2026-03-12'
+  repository: https://github.com/watsi/ui
+  official: true
+  kind: ui-components
+- language: javascript
+  registry: npm
+  name: "@watsi/icons"
+  url: https://www.npmjs.com/package/@watsi/icons
+  install: npm install @watsi/icons
+  description: Icon component
+  latest: 2.0.1
+  last_published: '2022-06-13'
+  official: true
+  kind: ui-components
+- language: javascript
+  registry: npm
+  name: eslint-config-watsi
+  url: https://www.npmjs.com/package/eslint-config-watsi
+  install: npm install eslint-config-watsi
+  description: Watsi's base ESLint configuration
+  latest: 1.0.15
+  last_published: '2022-06-17'
+  official: true
+  kind: tooling

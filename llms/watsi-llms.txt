@@ -1,0 +1,23 @@
+# Watsi
+
+> Watsi is a San Francisco-based 501(c)(3) nonprofit crowdfunding platform that lets donors directly fund surgeries and medical care for patients in low-income countries, working through vetted medical partners across Africa, Asia, and Latin America. It was the first nonprofit funded by Y Combinator and has directed more than $20 million to patient healthcare.
+
+Watsi previously published a read-only JSON API at developers.watsi.org, but that developer portal and api.watsi.org no longer resolve in DNS; no public API surface is currently available.
+
+## Company
+
+- [Website](https://watsi.org): Donate to fund healthcare for patients in low-income countries
+- [Blog](https://blog.watsi.org/): Patient stories, donor updates, and organizational news
+- [FAQ](https://watsi.org/faq): Frequently asked questions and support
+- [GitHub Organization](https://github.com/Watsi): Open source repositories, including the canonical source of Watsi's legal terms
+
+## Packages
+
+- [@watsi/ui](https://www.npmjs.com/package/@watsi/ui): Interface components for Watsi (first-party)
+- [@watsi/icons](https://www.npmjs.com/package/@watsi/icons): Icon component (first-party)
+- [eslint-config-watsi](https://www.npmjs.com/package/eslint-config-watsi): Watsi's base ESLint configuration (first-party)
+
+## Policies
+
+- [Terms of Use](https://watsi.org/terms)
+- [Privacy Policy](https://watsi.org/privacy)
