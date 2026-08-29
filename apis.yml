@@ -7,6 +7,17 @@ description: Watsi is a San Francisco-based 501(c)(3) nonprofit crowdfunding pla
   directed more than $20 million to patient healthcare. Watsi previously published
   a read-only JSON API at developers.watsi.org, but that developer portal and
   api.watsi.org no longer resolve, so no public API surface is currently available.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
