@@ -31,6 +31,9 @@ accessModel:
   method: derived
 image: https://avatars.githubusercontent.com/u/1034505?v=4
 url: https://raw.githubusercontent.com/api-evangelist/watsi/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Watsi previously published a read-only JSON API at developers.watsi.org, but that developer portal and api.watsi.org no longer resolve, so no public API surface is currently available."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
